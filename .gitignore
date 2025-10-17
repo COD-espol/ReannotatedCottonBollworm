@@ -1,0 +1,32 @@
+# Archivos del sistema macOS
+.DS_Store
+*.DS_Store
+**/.DS_Store
+._*
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencias
+node_modules/
+vendor/
+
+# Entornos virtuales
+.env
+.env.local
+.env.production
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build directories
+dist/
+build/
